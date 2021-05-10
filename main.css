@@ -1,0 +1,42 @@
+.form-btn {
+    width: 80px;
+    display: flex;
+}
+
+#formDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+#cardDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 1rem;
+}
+
+.card {
+  text-align: center;
+}
+
+body {
+  background-color: green;
+}
+ h1 {
+   text-align: center;
+font-family: 'Times New Roman', Times, serif;
+ }
+
+ .header-Container {
+   border: solid 1px brown;
+   background-color: brown;
+   text-align: center;
+   height: 50px;
+ }
+
+ img {
+   height: 200px;
+ }
